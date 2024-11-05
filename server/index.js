@@ -119,5 +119,6 @@ async function run() {
     console.error("Connection Error:", error);
   }
 }
+//this is server
 
 run().catch(console.dir);
